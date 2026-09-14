@@ -1,0 +1,12 @@
+{
+  "name": "ala1-calc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "readline-sync": "1.4.10"
+  }
+}
